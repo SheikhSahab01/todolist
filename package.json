@@ -6,7 +6,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "author": "",
+  "author": "Asif",
   "license": "ISC",
   "engines": {
     "node": "16.13.2",
